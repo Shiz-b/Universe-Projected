@@ -1,6 +1,8 @@
 # Universe-Projected
 Some sims to help students get behind concepts. I plan to create em based on things I'm currently learning and/or teaching. Requests/feedback always welcome. :)
 
+Email: shetalcareer@gmail.com
+
 
 ## Acknowledgements/Inspiration
 - Fantastic collection of resources and/or sims:
