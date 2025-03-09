@@ -1,5 +1,5 @@
 # Universe-Projected
-Some sims to help students get behind concepts.
+Some sims to help students get behind concepts. I will create sims as I learn concepts - this means I may not come back to cover the intro topics but might if requested.
 
 
 ## Acknowledgements/Inspiration
