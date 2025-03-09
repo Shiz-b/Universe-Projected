@@ -11,4 +11,5 @@ Some sims to help students get behind concepts.
   - Intro to Quantum Mechanics:
     - Accurate and enlightening video: https://www.youtube.com/watch?v=p7bzE1E5PMY&t=619s
     - Funny and dramatic: https://www.youtube.com/watch?v=iVpXrbZ4bnU
+  - MIT TEAL video animations for most things EMAG: https://web.mit.edu/8.02t/www/802TEAL3D/index.html
 
