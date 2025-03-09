@@ -13,4 +13,7 @@ Some sims to help students get behind concepts.
     - Accurate and enlightening video: https://www.youtube.com/watch?v=p7bzE1E5PMY&t=619s
     - Funny and dramatic: https://www.youtube.com/watch?v=iVpXrbZ4bnU
   - MIT TEAL video animations for most things EMAG: https://web.mit.edu/8.02t/www/802TEAL3D/index.html
+ 
+- Carnot Heat Engine stuff:
+  - Sims/resources: https://lecdem.physics.umd.edu/tools-and-resources/directory-of-simulations/35-thermo-stat-mech-simulations/426-heat-engine-simulations.html
 
