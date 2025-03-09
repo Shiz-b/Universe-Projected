@@ -9,6 +9,7 @@ Some sims to help students get behind concepts. I plan to create em based on thi
   - [HIGHLY INTERACTIVE] Quantum Mechanics of Two-Level Systems sims: https://www.st-andrews.ac.uk/physics/quvis/index.html
   - [HIGHLY INTERACTIVE] Iconic PHET sims ofc ofc: https://phet.colorado.edu/
   - Lots of teaching resources: https://www.physport.org/
+  - LibreTexts-Physics: Kinda revolutionary (IMO), a very nice resource for any physics tbh: https://phys.libretexts.org/
 - Cool video visualisations:
   - Intro to Quantum Mechanics:
     - Accurate and enlightening video: https://www.youtube.com/watch?v=p7bzE1E5PMY&t=619s
